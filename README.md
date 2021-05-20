@@ -1,4 +1,4 @@
-# PetShopAppointmentApp
+# Pet Shop Appointment App
 # <div align="center">📋 React To-Do App</div>
 <a href="https://todoapp-5aa6c.web.app"/>
 <img src="./main.png" />
