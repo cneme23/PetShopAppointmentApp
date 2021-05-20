@@ -2,7 +2,7 @@
 # <div align="center">📋 Veterinary Appointment App</div>
 
 <a href="https://epic-nobel-6e19d0.netlify.app/">
-<img src="./main.png" />
+<img src="./main.png"/>
                              </a>
 <p align="center">A simple, Veterinary appointment application built with React and Hooks 📋. You can create & delete an appointment with it</p>
 
