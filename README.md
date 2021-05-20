@@ -24,7 +24,7 @@
 ## 🚀 Installation
 
 ```
-$ git clone https://github.com/gabrielpasquantonio/React-TodoApp.git
+$ git clone https://github.com/cneme23/PetShopAppointmentApp.git
 $ cd petShopApp/PetShopAppointmentApp
 $ npm install
 $ npm start
