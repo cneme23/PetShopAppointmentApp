@@ -1,15 +1,15 @@
-# Pet Shop Appointment App
-# <div align="center">📋 React To-Do App</div>
+
+# <div align="center">📋 Pet Shop Appointment App</div>
 <a href="https://todoapp-5aa6c.web.app"/>
 <img src="./main.png" />
                              </a>
-<p align="center">A simple, volatile to-do list application built with React and Hooks 📋. It has all the CRUD functions, connected with firebase database</p>
+<p align="center">A simple, Veterinary appointment application built with React and Hooks 📋. You can create & delete an appointment with it</p>
 
 ## 🛠️ Technologies
 
 <ul>
   <li><a href="https://reactjs.org/">React</a></li>
-  <li><a href="https://firebase.google.com/?hl=pt-br">Firebase</a></li>
+  <li><a href="https://skeleton-framework.github.io/">Skeleton framework</a></li>
 </ul>
 
 ## ⚙️ Requirements
@@ -24,7 +24,7 @@
 
 ```
 $ git clone https://github.com/gabrielpasquantonio/React-TodoApp.git
-$ cd react-todolist
+$ cd petShopApp/PetShopAppointmentApp
 $ npm install
 $ npm start
 ```
